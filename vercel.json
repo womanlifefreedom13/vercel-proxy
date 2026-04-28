@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:path*", "destination": "/api" }
+    { "source": "/:path*", "destination": "https://vercel.a13.uk/:path*" }
   ]
 }
